@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tcalendar</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="Google_API_Key">AIzaSyAvfi4LKqWbcil_VwraNT72c8F5UY6nLW4</string>
+</resources>
