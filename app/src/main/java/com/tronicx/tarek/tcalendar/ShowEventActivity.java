@@ -18,6 +18,7 @@ import java.util.Locale;
 
 public class ShowEventActivity extends AppCompatActivity {
 
+    //This is a test comment
     TextView eventTitle, eventDescription, eventDate, eventTime;
     Button showLocation, editEvent;
     String event_id, user_id, title_str, description_str, date_str, time_str, latitude_str, longitude_str;
